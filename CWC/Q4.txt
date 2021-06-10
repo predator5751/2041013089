@@ -1,0 +1,9 @@
+string="ADARSH";
+if(s==null)
+{
+return s;
+}
+else
+{
+return(s.substring(0)+s.charAt(1));
+}
